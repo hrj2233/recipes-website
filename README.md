@@ -1,3 +1,3 @@
 # recipes-website
 
-Recipe website made with html
+Recipe website made in html
